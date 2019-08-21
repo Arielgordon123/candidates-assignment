@@ -8,5 +8,5 @@ chmod +r /home/vagrant/.ssh/id_rsa
 
 # copy the piblic key to tmp folder
 cp /home/vagrant/.ssh/id_rsa.pub /vagrant/key.pub
-
+# disable host key checking
 echo "StrictHostKeyChecking no" >> /etc/ssh/ssh_config
