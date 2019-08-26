@@ -1,2 +1,2 @@
-name: first last
-email: name@email.com
+name: Ariel Gordon
+email: arielgordon123@gmail.com
